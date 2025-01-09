@@ -58,4 +58,4 @@ Para visualizar o website em seu navegador, siga os passos abaixo:
 
 ## Demonstração
 
-![Sistema Solar em Animação](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUyeGswMHVmMHJlMWllc2xqZW9odjY3MGo0NG5qcTVwbmdwdTRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVmsvdLzY0fIonmYKp/giphy.gif)
+![Sistema Solar em Animação](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpncGhyOW03ZmtxcHdmc2lmbmN0ODBodHB4cGFoMzB3ZHp4a29ncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qNxI4YrC98mdcJnvF/giphy.gif)
