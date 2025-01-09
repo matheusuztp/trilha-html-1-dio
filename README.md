@@ -56,39 +56,6 @@ Para visualizar o website em seu navegador, siga os passos abaixo:
    - Utilize o índice no topo da página para navegar diretamente para as diferentes seções do conteúdo.
    - Clique nos links para explorar mais sobre cada tópico.
 
-## Considerações Técnicas
-
-- **Uso de Tags Obsoletas:**
-
-  - Algumas tags utilizadas, como `<font>`, `<u>`, e `<i>`, estão obsoletas no HTML5. É recomendável utilizar **CSS** para estilização e manutenção da semântica e acessibilidade do site. No entanto, foram incluídas neste projeto para fins de aprendizado conforme solicitado.
-
-- **Semântica e Acessibilidade:**
-
-  - Utilizar tags HTML de forma semântica melhora a acessibilidade e a otimização para motores de busca (SEO).
-  - O uso de atributos como `id` em seções e `title` em abreviações (`<abbr>`) melhora a experiência do usuário e a acessibilidade.
-
-- **Separação de Conteúdo e Estilo:**
-  - Para projetos futuros, considere separar o conteúdo (HTML) da apresentação (CSS) para um código mais organizado e fácil de manter.
-
-## Melhorias Futuras
-
-Para aprimorar este projeto, as seguintes melhorias podem ser implementadas:
-
-1. **Estilização com CSS:**
-
-   - Adicionar estilos CSS para melhorar a aparência visual do site e substituir o uso de tags obsoletas como `<font>`.
-
-2. **Responsividade:**
-
-   - Tornar o website responsivo para garantir uma boa experiência em dispositivos móveis e diferentes tamanhos de tela.
-
-3. **Interatividade:**
-
-   - Incorporar JavaScript para adicionar funcionalidades interativas, como menus dinâmicos ou animações.
-
-4. **Conteúdo Adicional:**
-   - Incluir mais informações sobre outros corpos celestes, missões espaciais e avanços na exploração do espaço.
-
-## Capturas de Tela
+## Demonstração
 
 ![Sistema Solar em Animação](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUyeGswMHVmMHJlMWllc2xqZW9odjY3MGo0NG5qcTVwbmdwdTRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVmsvdLzY0fIonmYKp/giphy.gif)
