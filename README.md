@@ -91,4 +91,4 @@ Para aprimorar este projeto, as seguintes melhorias podem ser implementadas:
 
 ## Capturas de Tela
 
-![Sistema Solar em Animação](https://giphy.com/gifs/dVmsvdLzY0fIonmYKp)
+![Sistema Solar em Animação](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUyeGswMHVmMHJlMWllc2xqZW9odjY3MGo0NG5qcTVwbmdwdTRlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVmsvdLzY0fIonmYKp/giphy.gif)
